@@ -1,0 +1,34 @@
+{
+  "plugins": [
+    {
+      "name": "frontend-mobile-development",
+      "version": "1.2.2",
+      "path": "plugins/frontend-mobile-development"
+    },
+    {
+      "name": "frontend-mobile-security",
+      "version": "1.2.2",
+      "path": "plugins/frontend-mobile-security"
+    },
+    {
+      "name": "multi-platform-apps",
+      "version": "1.2.2",
+      "path": "plugins/multi-platform-apps"
+    },
+    {
+      "name": "accessibility-compliance",
+      "version": "1.2.2",
+      "path": "plugins/accessibility-compliance"
+    },
+    {
+      "name": "application-performance",
+      "version": "1.2.2",
+      "path": "plugins/application-performance"
+    },
+    {
+      "name": "game-development",
+      "version": "1.2.2",
+      "path": "plugins/game-development"
+    }
+  ]
+}
